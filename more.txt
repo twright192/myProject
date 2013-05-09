@@ -1,1 +1,2 @@
 another file
+adding a line to keep after revert
